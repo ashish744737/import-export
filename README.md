@@ -24,4 +24,6 @@ Here we are going to import single worksheet and multiple worksheets those are i
 
 8. Project is ready to run. use link : http://localhost:8000/import-export   <br> 
 
-*note : How to install packages has been described in "users_guide.xlxs" file which is in project.
+*note : How to install packages has been described in "users_guide.xlxs" file which is in project.<hr>
+Ashish Avinash Pasekar <br>
+Email : ashish.pasekar@gmail.com
