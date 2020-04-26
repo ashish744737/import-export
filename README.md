@@ -1,6 +1,6 @@
 # import-export excel for sngle sheet and multiple sheets in laravel 5.8
 
-Here we are going to import single worksheet and multiple worksheets within single excel file and going to export data in excel as well as csv format.
+Here we are going to import single worksheet and multiple worksheets those are in single excel file and alse going to export data in excel as well as csv format.
 
 1. Download / Clone the project <br>
     git clone (clone link) --> in cmd
