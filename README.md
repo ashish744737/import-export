@@ -1,4 +1,4 @@
-# import-export excel for sngle sheet and multiple sheets in laravel 5.8
+# import-export the excel for single sheet and multiple sheets in laravel 5.8
 
 Here we are going to import single worksheet and multiple worksheets those are in single excel file and alse going to export data in excel as well as csv format.
 
